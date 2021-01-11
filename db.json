@@ -1,0 +1,81 @@
+{
+  "clothes": [
+    {
+      "title": "FLARED LIFESTYLE PANTS - ROYAL BLUE",
+      "price": "10000c",
+      "description": "Made in Tunisia     Fabric : 55% viscose, 45% cotton",
+      "image": "https://cdn.shopify.com/s/files/1/1142/1274/products/4254-sport-flared-pants-blue-1_750x.jpg?v=1600782550",
+      "id": 2
+    },
+    {
+      "title": "TRIBE TEE",
+      "price": "6000c",
+      "description": "Made in Portugal  Fabric : 100% cotton  Subfabric: 70% recycled polyamide, 30% elastane  Machine wash 30°",
+      "image": "https://cdn.shopify.com/s/files/1/1142/1274/products/4254-sport-tribe-tee-1_1800x1800.jpg?v=1600784474",
+      "id": 3
+    },
+    {
+      "title": "WAVE CAPRI",
+      "price": "16000c",
+      "description": "Made in Tunisia     Fabric weaved in Belgium, made with circular knit with a 4-way stretch, breathable and moisture absorbing, light weight, offering a second skin feeling and figure correcting.     Fabric : 67% polyamide, 33% elastane Subfabric : 89% polyamide, 11% elastane     Machine wash 30°",
+      "image": "https://cdn.shopify.com/s/files/1/1142/1274/products/4254-sport-wave-capri-black-1_1800x1800.jpg?v=1599641067",
+      "id": 4
+    },
+    {
+      "title": "KNIT TO FIT BRA - CARAMEL",
+      "price": "25000c",
+      "description": "Made in Portugal   Fabric: 70% viscose, 30% polyester     Machine wash 30°",
+      "image": "https://cdn.shopify.com/s/files/1/1142/1274/products/bra1-2_1800x1800.jpg?v=1603459209",
+      "id": 6
+    },
+    {
+      "title": "BUTTERFLY SHORTS",
+      "price": "7000c",
+      "description": "Made in Tunisia     Fabric : 70% recycled polyamide, 30% elastane  Subfabric : 82% recycled polyamide, 18% elastane     Machine wash 30°",
+      "image": "https://cdn.shopify.com/s/files/1/1142/1274/products/4254-sport-shorts-lilac-8_1800x1800.jpg?v=1599649995",
+      "id": 11
+    },
+    {
+      "title": "REVOLUTIONARY TIGHTS - CARAMEL",
+      "price": "8000c",
+      "description": "A true signature legging in the 4254 collection.  Fashion, function and style all wrapped in one übercool piece.  Whether you want to take a relaxing yoga class or simply enjoy a girls night out, this legging will have you look and feel your best.     Fabric made with circular knit with a 4-way stretch, breathable, light weight, offering a second skin feeling and figure correcting.",
+      "image": "https://cdn.shopify.com/s/files/1/1142/1274/products/legging1-2copie_1800x1800.jpg?v=1603182586",
+      "id": 12
+    },
+    {
+      "title": "LUCKY NUMBERS BRA - PINK",
+      "price": "18000c",
+      "description": "An artfully designed sports bra with the support one expect for a medium to heavy workout.  The one-shoulder silhouette is one of the most popular styles in the brands palette and has been worn both in the gym or mixed in an offbeat, fun look.  Wear yours in combination with black leggings or pump up the volume with your pink Lucky Numbers tights.   Fabric made with circular knit with a 4-way stretch, breathable, light weight, offering a second skin feeling.",
+      "image": "https://cdn.shopify.com/s/files/1/1142/1274/products/4254-sport-pink-set-5_1800x1800.jpg?v=1600783964",
+      "id": 13
+    },
+    {
+      "title": "OVERLONG PERFORMANCE LONG SLEEVES",
+      "price": "3000c",
+      "description": "A classic look for your staple wardrobe. It is designed with a turtleneck and a shiny 4-way stretch fabric that perfectly contours to all body types. Our Long Sleeves are created to withstand the toughest of workouts, but often worn to look effortless with your coveted denim styles.",
+      "image": "https://cdn.shopify.com/s/files/1/1142/1274/products/4254-sport-performance-long-sleeves-8_1800x1800.jpg?v=1601373472",
+      "id": 14
+    },
+    {
+      "title": "WAVE BRA - BLACK",
+      "price": "6000c",
+      "description": "The bestseller bra that keeps finding it’s way into your wardrobe.  Structured beautifully with a sweetheart neckline, designed for maximum support .  Opt for this subtle eyecatcher to mix with your daily attire.     Fabric made with circular knit with a 4-way stretch, breathable, light weight, offering a second skin feeling and figure correcting.",
+      "image": "https://cdn.shopify.com/s/files/1/1142/1274/products/4254-sport-wave-bra-black-3_1800x1800.jpg?v=1600938871",
+      "id": 15
+    },
+    {
+      "title": "CYCLING SHORTS",
+      "price": "6000c",
+      "description": "The bestseller bra that keeps finding it’s way into your wardrobe.  Structured beautifully with a sweetheart neckline, designed for maximum support .  Opt for this subtle eyecatcher to mix with your daily attire.     Fabric made with circular knit with a 4-way stretch, breathable, light weight, offering a second skin feeling and figure correcting.",
+      "image": "https://cdn.shopify.com/s/files/1/1142/1274/products/1C5A3753_1800x1800.jpg?v=1594048782",
+      "id": 16
+    },
+    {
+      "title": "WAVE LEGGINGS",
+      "price": "8000c",
+      "description": "Get moving in our wave leggings, a full length legging, perfect for your high performance activities.  Fabric made with circular knit with a 4-way stretch, breathable, light weight, offering a second skin feeling.",
+      "image": "https://cdn.shopify.com/s/files/1/1142/1274/products/4254_030920209532_1800x1800.jpg?v=1599657709",
+      "id": 17
+    }
+  ]
+}

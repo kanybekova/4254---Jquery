@@ -1,0 +1,204 @@
+.header{
+  background: url('../img/homepage5_1600x.jpg') no-repeat center / cover;
+  width: auto;
+  height: 800px;
+}
+.second-section{
+  display: flex;
+  justify-content: space-around;
+  background-color: black;
+  color: white;
+  height: 50px;
+  text-align: center;
+}
+.button{
+  width: 80px;
+  height: 50px;
+}
+.btn-close{
+  background: #fff;
+  border: none;
+  color: rgba(219, 216, 216, 0.8);
+  font-size: 20px;
+}
+.button,.next-btn ,.previous-btn ,.add-btn ,.btn-save {
+  width: 50px;
+  height: 50px;
+  background: #f3f0f1;
+  position: relative;
+  background: #f3f0f1;
+  margin-bottom: 25px;
+  border-radius: 32px;
+  text-align: center;
+  cursor: pointer;
+  border: none;
+  transition: all 0.1s ease-in-out;
+}
+.button span {
+  line-height: 50px;
+  font-family: "Montserrat", sans-serif;
+  font-size: 25px;
+  text-align: center;
+  font-weight: semibold;
+}
+.button:nth-child(3) ,.next-btn, .previous-btn , .btn-save ,.add-btn {
+  box-shadow: inset -4px -4px 8px rgba(255, 255, 255, 0.5),
+  inset 8px 8px 16px rgba(0, 0, 0, 0.1);
+  color: white;
+}
+.button:hover ,.previous-btn:hover , .next-btn:hover ,.btn-delete:hover ,.edit-btn:hover{
+  opacity: 1;
+  text-decoration: none;
+  box-shadow: -6px -6px 10px rgba(255, 255, 255, 0.8),
+  6px 6px 10px rgba(0, 0, 0, 0.2);
+}
+.active-cyan input.form-control[type=text] {
+  border-bottom: 1px solid #4dd0e1;
+  box-shadow: 0 1px 0 0 #4dd0e1;
+}
+.pagination{
+  font-size: 30px;
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  align-content: center;
+}
+.next-btn{
+  position: absolute;
+  bottom: -450px;
+  right: 20px;
+  width: 50px;
+  height: 50px;
+  color: #fcfcfc;
+}
+.previous-btn{
+  position: absolute;
+  bottom: -450px;
+  left: 20px;
+  width: 50px;
+  height: 50px;
+  color: #fcfdfd;
+}
+.brand-logo img{
+  height: 200px;
+}
+.card{
+  margin:20px;
+}
+.card-body{
+  height:50%;
+  margin: 10px, 20px;
+  margin-bottom: 20px;
+}
+.main-modal{
+  position: absolute;
+  width: 80%;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(199, 208, 219, 0.5);
+  display: none
+}
+.add-modal{
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  display: none;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(199, 208, 219, 0.5);
+}
+.block{
+  display: flex;
+  position: relative !important;
+  justify-content: space-around;
+  margin: 30px;
+
+}
+.inner-modal {
+  width: 500px;
+  height: 300px;
+  background-color: white;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.inner-modal input{
+  margin: 5px;
+  border-top: none;
+  border-right: none;
+  border-left: none;
+}
+.btn-close {
+  align-self: flex-end;
+}
+.contact{
+  width: 400px;
+}
+.about{
+  width: 390px;
+}
+.third-section{
+  padding: 130px;
+  background-color: black;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  align-content: center;
+}
+.third-section p{
+  margin: 0;
+}
+.third-section img{
+  width: 7%;
+}
+@media all and (max-width:470px){
+  .header{
+    height: 550px;
+  }
+  .second-section h1{
+    font-size: 10px;
+  }
+  .second-section{
+    height: 30px;
+    text-align: center;
+  }
+  .block{
+    display: flex;
+    flex-direction: column;
+  }
+  .card-body p,span{
+    font-size: 10px;
+  }
+  .card-title{
+    font-size: 16px;
+  }
+  .btn-delete ,.edit-btn{
+    width: 2%;
+
+  }
+  .third-section{
+    padding: 30px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-content: center;
+  }
+  .third-section p{
+    font-size: 10px;
+  }
+  .third-section h5{
+    font-size: 15px;
+  }
+  .third-section img{
+    width: 5%;
+  }
+  .contact{
+    margin: 15px 0;
+  }
+}
